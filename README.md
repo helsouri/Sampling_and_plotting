@@ -4,3 +4,4 @@ Also, we will make a plot of a real world function based on underlying function 
 
 Available is the pdf file along with the tex file alng with entire zip file <br>
 _c code file is missing after losing files due to laptop migration but pdf contains all the code_
+**Code needs openFramworks to function properly**
